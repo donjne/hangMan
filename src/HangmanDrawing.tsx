@@ -1,6 +1,4 @@
-import React from 'react'
-
-    type HangmanDrawingProps = {
+type HangmanDrawingProps = {
         numberOfGuesses: number
     }
 
